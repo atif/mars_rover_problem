@@ -34,7 +34,7 @@ MMRMMRMRRM<br>
 5 1 E<br>
 
 ####How to run
-bundle
+bundle<br/>
 FILE=input.txt rake nasa:land_squad
 
 ####How to test
